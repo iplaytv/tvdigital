@@ -1,0 +1,89 @@
+#EXTM3U
+ 
+#Lokal TV
+#EXTINF:0 channel-id="1" tvg-id="SCTV" group-title="Lokal TV",SCTV
+https://kmklive-lh.akamaihd.net/i/sctv_ta_regular@94479/master.m3u8?hdnts=st=1526628220~exp=1526630020~acl=/i/*~hmac=23adc4649d6eac71ae951223a2c489c9297d725faeaf2760a4e7a5221b696459
+
+#EXTINF:0 channel-id="2" tvg-id="INDOSIAR" group-title="Lokal TV",INDOSIAR
+https://kmklive-lh.akamaihd.net/i/indosiar_ta_regular@94479/master.m3u8?hdnts=st=1526628374~exp=1526630174~acl=/i/*~hmac=440b8e54d09aaaac10f372558b28dd1213098df6ed68f513680391102d451aa8
+
+#EXTINF:0 channel-id="3" tvg-id="OCHANNEL" group-title="Lokal TV",OCHANNEL
+https://kmklive-lh.akamaihd.net/i/ochannel_live@94478/master.m3u8
+
+#EXTINF:0 channel-id="4" tvg-id="RCTI" group-title="Lokal TV",RCTI
+https://kmklive-lh.akamaihd.net/i/rcti_ta_regular@94478/master.m3u8?hdnts=st=1526628770~exp=1526630570~acl=/i/*~hmac=c27b65f2c9505ceb29d2fc20b545797220baf6280bbf7d0a74968b9bf39669ef
+
+#EXTINF:0 channel-id="5" tvg-id="TRANS7" group-title="Lokal TV",TRANS7 
+https://kmklive-lh.akamaihd.net/i/trans7_live@94476/master.m3u8
+
+#EXTINF:0 channel-id="6" tvg-id="GTV" group-title="Lokal TV",GTV
+https://kmklive-lh.akamaihd.net/i/globaltv_ta_regular@94478/master.m3u8?hdnts=st=1526628975~exp=1526630775~acl=/i/*~hmac=3c0964bb63c28e8bdd0856d1aef78a031dbb9a1e817180274e0801d6c9b0bc95
+
+#EXTINF:0 channel-id="7" tvg-id="METROTV" group-title="Lokal TV",METROTV 
+https://kmklive-lh.akamaihd.net/i/metrotv_ta_regular@577566/master.m3u8?hdnts=st=1526628923~exp=1526630723~acl=/i/*~hmac=aed30cb1c5a2501a9176c66d76a36132e5179c8ddbd9be910c2c5779443cc844
+
+#EXTINF:0 channel-id="8" tvg-id="NET" group-title="Lokal TV",NET 
+http://210.210.155.35/session/4b0209e4-3906-11e8-a742-c81f66f89318/qwr9ew/s/s08/index1.m3u8
+
+#EXTINF:0 channel-id="9" tvg-id="ANTV" group-title="Lokal TV",ANTV 
+https://kmklive-lh.akamaihd.net/i/antv_ta_regular@577566/master.m3u8?hdnts=st=1526628618~exp=1526630418~acl=/i/*~hmac=912d44411aa1ec79c803db92c5b2c30c19b0cc314dc1c18b69edd1eb2d999c82
+
+#EXTINF:0 channel-id="10" tvg-id="TVONE" group-title="Lokal TV",TVONE 
+https://kmklive-lh.akamaihd.net/i/tvone_live@577566/master.m3u8
+
+#EXTINF:0 channel-id="11" tvg-id="MNCTV" group-title="Lokal TV",MNCTV 
+https://kmklive-lh.akamaihd.net/i/mnctv_ta_regular@137568/master.m3u8?hdnts=st=1526628803~exp=1526630603~acl=/i/*~hmac=2ca33e8c7e022559f0f46fa5a3c736b9fbb5ff8b6c5c555be20f4294041c8646
+
+#EXTINF:0 channel-id="12" tvg-id="RTV" group-title="Lokal TV",RTV 
+https://kmklive-lh.akamaihd.net/i/rtv_live@137568/master.m3u8
+
+#EXTINF:0 channel-id="13" tvg-id="TRANSTV" group-title="Lokal TV",TRANSTV 
+https://kmklive-lh.akamaihd.net/i/transtv_live@94476/master.m3u8
+
+#EXTINF:0 channel-id="14" tvg-id="JAKTV" group-title="Lokal TV",JAKTV 
+https://kmklive-lh.akamaihd.net/i/jaktv_live@94476/master.m3u8
+
+#EXTINF:0 channel-id="15" tvg-id="KOMPAS" group-title="Lokal TV",KOMPAS 
+https://kmklive-lh.akamaihd.net/i/kompastv_live@586951/master.m3u8
+
+#EXTINF:0 channel-id="16" tvg-id="JTV" group-title="Lokal TV",JTV
+http://122.248.32.234:1935/ch2/myStream/playlist.m3u8
+
+#EXTINF:0 channel-id="17" tvg-id="INTV" group-title="Lokal TV",INTV
+http://flash1.broadcastindo.net/bantentv/stream.sdp/playlist.m3u8
+
+#EXTINF:0 channel-id="18" tvg-id="USEEPRIME" group-title="Lokal TV",USEEPRIME
+http://api.useetv.com/sc/useeprime/index.m3u8?stime=20180401142411&etime=20180402002411&encoded=0a7c6c6ef58370d7f68d7
+
+#EXTINF:0 channel-id="19" tvg-id="BERITA SATU" group-title="Lokal TV",BERITA SATU
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+
+#EXTINF:0 channel-id="20" tvg-id="TVRI" group-title="Lokal TV",TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRINasional)/Stream(04)/index.m3u8
+
+#EXTINF:0 channel-id="21" tvg-id="RCTV" group-title="Lokal TV",RCTV
+http://122.248.32.234:1935/ch9/myStream/playlist.m3u8
+
+#EXTINF:0 channel-id="22" tvg-id="BIOS TV" group-title="Lokal TV",BIOS TV
+http://ss.bbstv.co.id:1935/bbstv/live1/playlist.m3u8
+
+#EXTINF:0 channel-id="23" tvg-id="ADITV" group-title="Lokal TV",ADITV
+http://aditv.onlivestreaming.net/aditv/livestream/playlist.m3u8
+
+#EXTINF:0 channel-id="24" tvg-id="JPM" group-title="Lokal TV",JPM
+http://122.248.32.234:1935/jpm/myStream/playlist.m3u8
+
+#EXTINF:0 channel-id="25" tvg-id="JAWAPOS" group-title="Lokal TV",JAWAPOS
+http://122.248.32.234:1935/ch6/myStream/playlist.m3u8
+
+#EXTINF:0 channel-id="26" tvg-id="INSPIRA" group-title="Lokal TV",INSPIRA
+http://stream1.ninmedia.tv/live/nin-inspira.stream_nin/playlist.m3u8
+
+#EXTINF:0 channel-id="27" tvg-id="DUTA" group-title="Lokal TV",DUTA
+http://video2.onlivestreaming.net/dutatv/live.sdp/playlist.m3u8
+
+#EXTINF:0 channel-id="28" tvg-id="KITANESIA" group-title="Lokal TV",KITANESIA
+http://stream1.ninmedia.tv/live/nin-ladies.stream_nin/playlist.m3u8
+
+#EXTINF:0 channel-id="29" tvg-id="FAKTA" group-title="Lokal TV",FAKTA
+http://stream1.ninmedia.tv/live/nin-9net.stream_nin/playlist.m3u8
